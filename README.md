@@ -14,7 +14,7 @@
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
       <a href="https://leetcode.com/u/Swamp_17/">
-        <img src="https://leetcard.jacoblin.cool/Swamp_17?ext=activity&font=Fira%20Code&colors=0a192f,112240,ccd6f6,4fd1c5,2dd4bf,38bdf8,0ea5e9,5eead4" alt="Swamp_17 LeetCode Stats" width="100%" />
+        <img src="https://leetcard.jacoblin.cool/Swamp_17?ext=activity&font=Fira%20Code&colors=282a36,343746,f8f8f2,6272a4,ff79c6,bd93f9,8be9fd,50fa7b" alt="Swamp_17 LeetCode Stats" width="100%" />
       </a>
     </td>
   </tr>
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py" alt="My Skills" />
   </a>
 </p>
 
