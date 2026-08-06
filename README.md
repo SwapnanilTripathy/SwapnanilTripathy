@@ -23,13 +23,6 @@
 ---
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SwapnanilTripathy/SwapnanilTripathy/main/download (3).png" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
-</p>
-
----
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
