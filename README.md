@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SwapnanilTripathy/SwapnanilTripathy/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/SwapnanilTripathy/SwapnanilTripathy/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
 </p>
 
 ---
