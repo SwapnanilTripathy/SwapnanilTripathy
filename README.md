@@ -5,11 +5,16 @@
     <td width="60%" valign="top" style="border: none;">
       <ul>
         <li>🚀 <b>Complete Beginner to Coding World</b></li>
+        <li>🎓 CS student, sharpening my <b>Data Structures & Algorithms</b> chops</li>
+        <li>🧠 Grinding LeetCode consistently to build problem-solving muscle</li>
+        <li>🌐 Comfortable across the stack — HTML/CSS/JS, React, Git/GitHub workflows</li>
+        <li>🛠️ Building personal tools (progress trackers, coding practice environments) to sharpen my own workflow</li>
+        <li>📈 Focused on consistency — one problem at a time, every day</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
       <a href="https://leetcode.com/u/Swamp_17/">
-        <img src="https://leetcard.jacoblin.cool/Swamp_17?ext=activity&font=Fira%20Code&colors=282a36,343746,f8f8f2,6272a4,ff79c6,bd93f9,8be9fd,50fa7b" alt="Swamp_17 LeetCode Stats" width="100%" />
+        <img src="https://leetcard.jacoblin.cool/Swamp_17?ext=activity&font=Fira%20Code&colors=0a192f,112240,ccd6f6,4fd1c5,2dd4bf,38bdf8,0ea5e9,5eead4" alt="Swamp_17 LeetCode Stats" width="100%" />
       </a>
     </td>
   </tr>
