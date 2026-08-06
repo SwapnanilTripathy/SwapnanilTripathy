@@ -1,4 +1,4 @@
-<h2 align="center"><i>"One day, I'm gonna grow wings."</i></h2>
+<h1 align="center"><i style="color:#ff79c6;">"One day, I'm gonna grow wings."</i></h1>
 
 ---
 ---
