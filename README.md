@@ -34,6 +34,13 @@
 ---
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwapnanilTripathy/SwapnanilTripathy/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
+</p>
+
+---
+---
+
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
