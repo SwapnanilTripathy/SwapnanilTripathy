@@ -32,8 +32,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py" alt="My Skills" />
   </a>
+</p>
+
+---
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwapnanilTripathy/SwapnanilTripathy/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
 </p>
 
 ---
@@ -43,11 +50,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SwapnanilTripathy/SwapnanilTripathy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
-</p>
-
----
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iam-sarthakdev/iam-sarthakdev/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Secondary Animation" width="100%" style="border-radius: 15px;" />
 </p>
