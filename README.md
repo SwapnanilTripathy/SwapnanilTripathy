@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FF79C6&center=true&vCenter=true&width=700&lines=One+day%2C+I%27m+gonna+grow+wings." alt="Typing SVG" />
-</p>
+<h2 align="center"><i>"One day, I'm gonna grow wings."</i></h2>
 
 ---
 ---
