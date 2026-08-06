@@ -9,7 +9,7 @@
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
       <a href="https://leetcode.com/u/Swamp_17/">
-        <img src="https://leetcard.jacoblin.cool/Sarthak_79?theme=dark&font=Fira%20Code&ext=activity&dummy=99" alt="Sarthak_79 LeetCode Stats" width="100%" />
+        <img src="https://leetcard.jacoblin.cool/Swamp_17theme=dark&font=Fira%20Code&ext=activity&dummy=99" alt="Swamp_17 LeetCode Stats" width="100%" />
       </a>
     </td>
   </tr>
