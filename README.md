@@ -1,7 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py)](https://skillicons.dev)
+## Languages I Code With
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py" />
   </a>
 </p>
 
