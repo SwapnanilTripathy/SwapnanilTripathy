@@ -1,4 +1,4 @@
-<h1 align="center"><i style="color:#bd93f9;">"Hi Ashmita."</i></h1>
+<h1 align="center"><i style="color:#bd93f9;">""</i></h1>
 
 ---
 ---
