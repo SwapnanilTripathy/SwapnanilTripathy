@@ -1,4 +1,4 @@
-<h1 align="center"><i style="color:#bd93f9;">""</i></h1>
+<h1 align="center"><i style="color:#bd93f9;">"Complete Beginner to The Coding World"</i></h1>
 
 ---
 ---
@@ -9,7 +9,6 @@
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <ul>
-        <li>🚀 <b>Complete Beginner to Coding World</b></li>
         <li>🎓 CS student, sharpening my <b>Data Structures & Algorithms</b> chops</li>
         <li>🧠 Grinding LeetCode consistently to build problem-solving muscle</li>
         <li>🌐 Comfortable across the stack — HTML/CSS/JS, React, Git/GitHub workflows</li>
