@@ -1,4 +1,4 @@
-<h1 align="center"><i style="color:#bd93f9;">"Complete Beginner to The Coding World"</i></h1>
+<h1 align="center"><i style="color:#bd93f9;">"One of our greatest freedoms is how we react to things"</i></h1>
 
 ---
 ---
