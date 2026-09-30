@@ -1,4 +1,4 @@
-<h1 align="center"><i style="color:#bd93f9;">"Yo Guys"</i></h1>
+<h1 align="center"><i style="color:#bd93f9;">"One Of Our Greatest Freedoms Is How We React To Things"</i></h1>
 
 ---
 ---
