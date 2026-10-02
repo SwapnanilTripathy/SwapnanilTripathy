@@ -1,4 +1,4 @@
-<h1 align="center"><i style="color:#bd93f9;">"One Of Our Greatest Freedoms Is How We React To Things"</i></h1>
+<h1 align="center"><i style="color:#bd93f9;">"Hey, I'm Swapnanil"</i></h1>
 
 ---
 ---
@@ -9,10 +9,10 @@
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <ul>
-        <li>🎓 CS student, sharpening my <b>Data Structures & Algorithms</b> chops</li>
+        <li>🎓 CS student, sharpening my <b>Data Structures & Algorithms</b> skills</li>
         <li>🧠 Grinding LeetCode consistently to build problem-solving muscle</li>
         <li>🌐 Comfortable across the stack — HTML/CSS/JS, React, Git/GitHub workflows</li>
-        <li>🛠️ Building personal tools (progress trackers, coding practice environments) to sharpen my own workflow</li>
+        <li>🤖 Exploring AI/ML, software development, and practical project building</li>
         <li>📈 Focused on consistency — one problem at a time, every day</li>
       </ul>
     </td>
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,java,py,react,git,github" alt="My Skills" />
   </a>
 </p>
 
